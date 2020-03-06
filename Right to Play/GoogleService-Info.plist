@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>383438681476-6pchbab7dvb0oltf4ulgp0vj3q0vg3mv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.383438681476-6pchbab7dvb0oltf4ulgp0vj3q0vg3mv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB8wZMJRA_aLY6RKkwV2hx8P6CZ4QQdCuo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>383438681476</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>FRC-Team-1325.Right-to-Play</string>
+	<key>PROJECT_ID</key>
+	<string>right-to-play-b098f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>right-to-play-b098f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:383438681476:ios:7fc20d45d82f36925959d1</string>
+	<key>DATABASE_URL</key>
+	<string>https://right-to-play-b098f.firebaseio.com</string>
+</dict>
+</plist>

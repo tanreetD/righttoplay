@@ -1,0 +1,6 @@
+framework module Pods_Right_to_Play {
+  umbrella header "Pods-Right to Play-umbrella.h"
+
+  export *
+  module * { export * }
+}
