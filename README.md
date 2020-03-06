@@ -14,4 +14,4 @@ The design was created in Sketch and then programmed in Xcode.
 ![](Storyboard.png)
 
 
-![](Sketch.png)
+![](Sketch1.png)
